@@ -1,9 +1,11 @@
 <div align="center">
   <img src='https://i.pinimg.com/originals/01/ec/5c/01ec5c37f26599b290176e884962c7d1.gif' alt='Obi wan hello there' />
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arashramy)
 
 
 </div>
+
+
+https://img.shields.io/twitter/follow/arashramy
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
