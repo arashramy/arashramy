@@ -19,4 +19,6 @@ https://img.shields.io/twitter/follow/arashramy
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![NGINX](https://img.shields.io/badge/NGINX-FFFFFF.svg?style=for-the-badge&logo=Nginx&logoColor=green) 
+
 https://img.shields.io/badge/NGINX-FFFFFF.svg?style=for-the-badge&logo=Nginx&logoColor=green
