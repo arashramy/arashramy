@@ -18,10 +18,14 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis)
 
 ![Linux](https://img.shields.io/badge/-Linux-003366?style=flat&logo=linux)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 ![Web3](https://img.shields.io/badge/-Web3-F16822?style=flat&logo=web3.js)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka)
+
+
